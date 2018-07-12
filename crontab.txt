@@ -1,0 +1,1 @@
+0 8 * * * /home/cb/Documents/Marvin/script.sh
